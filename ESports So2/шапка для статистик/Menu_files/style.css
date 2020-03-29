@@ -1,0 +1,21 @@
+.dws {
+position: absolute;
+top: 0%;
+left: 10%
+}
+
+.button
+{
+    border: 3px solid #218294;
+    font-size: 15px;
+    color: #218294;
+    text-decoration: none;
+    text-transform: uppercase;
+    width: 60px;
+    height: 30px;
+    display: block;
+    text-align: center;
+    line-height:30px ;
+    font-family: Arial, sans-serif;
+    position: absolute;
+}
